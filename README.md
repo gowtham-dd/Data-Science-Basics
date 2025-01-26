@@ -88,7 +88,7 @@ If you'd like to contribute, please open a pull request.
 
 If you have any questions or want to connect, feel free to reach out:
 
-- **Email**: gowtham@example.com
+- **Email**: gowthamd997@gmail.com
 - **GitHub**: [https://github.com/gowtham-dd](https://github.com/gowtham-dd)
 - **LinkedIn**: [https://linkedin.com/in/gowtham-dd](https://linkedin.com/in/gowtham-dd)
 
